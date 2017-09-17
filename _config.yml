@@ -1,16 +1,16 @@
 # Site settings
-title: 读立写生
+title: 文婷的网志
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "在不确定在中行进"  
 baseurl: ""
-url: "http://cnfeat"  
+url: "http://zhouwenting。com"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: "文婷"
+  email: wendy366100@gmail.com
+  bio: "人生是一个长期且连续的积累过程。坚持大时间周期，在行动中学习，用作品说话"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
