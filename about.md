@@ -6,11 +6,6 @@ header-img: "img/green.jpg"
 ---
 
 
-<center>
-    <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
-</center>
-
-
 ### 坚信
 
 
@@ -27,7 +22,7 @@ header-img: "img/green.jpg"
 ### 联系
 
 - [博客：www.zhouwenting.com](www.zhouwenting.com)
-
+- 邮箱：wendy366100@gmail.com
 
 
 
